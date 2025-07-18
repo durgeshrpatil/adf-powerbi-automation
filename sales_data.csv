@@ -1,0 +1,11 @@
+Sale_ID,Date,Customer,Product,Quantity,Price
+1,2023-01-01,CustA,Prod1,2,200
+2,2023-01-02,CustB,Prod2,1,150
+3,2023-01-03,CustC,Prod3,3,300
+4,2023-01-04,CustA,Prod1,4,400
+5,2023-01-05,CustB,Prod2,2,180
+6,2023-01-06,CustC,Prod3,1,130
+7,2023-01-07,CustA,Prod1,5,500
+8,2023-01-08,CustB,Prod2,2,210
+9,2023-01-09,CustC,Prod3,3,310
+10,2023-01-10,CustA,Prod1,2,220
